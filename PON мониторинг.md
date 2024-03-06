@@ -1,7 +1,7 @@
 Сервис предназначен для сбора данных с OLT, их хранения и аналитики.
 
 
-![[MNPON-interface.png]]
+![MNPON-interface.png](MNPON-interface.png)
 
 ### Иерархия разделов:
 1. Список OLT
